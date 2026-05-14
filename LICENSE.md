@@ -1,4 +1,4 @@
-# 
+# momentum trading bot quantitative Bot - candlestick-patterns and arbitrage-opportunities is the best momentum trading bot, featuring candlestick-patterns and
 
 
 
